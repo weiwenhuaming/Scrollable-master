@@ -26,7 +26,6 @@ public class MainActivity extends BaseActivity implements ConfigurationFragmentC
         setContentView(R.layout.activity_main);
 
         // add test chars
-        // this test again
         // bad hand
 
         final View header = findViewById(R.id.header);
