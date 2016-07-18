@@ -24,9 +24,10 @@ public class MainActivity extends BaseActivity implements ConfigurationFragmentC
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        // add test chars
 
         // add test chars
+        // add test chars
+        // bad hand
 
         final View header = findViewById(R.id.header);
         final TabsLayout tabs = findView(R.id.tabs);
