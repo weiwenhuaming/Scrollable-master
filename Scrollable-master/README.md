@@ -4,7 +4,7 @@
 
 ---
 
-![](https://raw.githubusercontent.com/noties/Scrollable/master/sample.gif)
+![](https://github.com/weiwenhuaming/Scrollable-master/blob/master/Scrollable-master/sample.gif)
 
 This library encapsulates scrolling logic when implementing *scrolling tabs* (hot topic nowadays in Android development). It saves us from unpleasant routine aka `addHeader`, `addFooter` for every scrolling content which appears in tabs and synchronising it with our *real* headers. It also works good for a single scrolling widget, for e.g. RecyclerView which has it's own issues with headers (at least *parallaxing* them). Also check out the `ScrollableDialog` in sample application it mimics new Android Lollipop Intent chooser behavior.
 
